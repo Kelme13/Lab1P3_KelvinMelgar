@@ -92,7 +92,7 @@ int main(int argc, char const *argv[])
             break;
         }
 
-        cout << "--------------------------------";
+        cout << "\n--------------------------------";
         cout << "\n\n1. Error Numerico. \n";
         cout << "2. Division en 2 Entradas. \n\n";
         cout << "3. Salir.\n\n";
