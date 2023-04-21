@@ -47,7 +47,6 @@ int main(int argc, char const *argv[])
             cout << "Error Numerico usando Double: " << d << endl;
             cout << "Error Numerico usando Float: " << f << endl;
             cout << "Error Numerico usando Long Double: " << ld << endl;
-            cout << "\n\n";
         }
         break;
 
