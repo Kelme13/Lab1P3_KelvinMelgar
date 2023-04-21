@@ -44,7 +44,7 @@ int main(int argc, char const *argv[])
             float f = abs(1.0f - float_s);
             long double ld = abs(1.0L - longD_s);
 
-            cout << "Error Numerico usando Double: " << d << endl;
+            cout << "\nError Numerico usando Double: " << d << endl;
             cout << "Error Numerico usando Float: " << f << endl;
             cout << "Error Numerico usando Long Double: " << ld << endl;
         }
